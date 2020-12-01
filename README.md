@@ -1,1 +1,1 @@
-# Can-we-analysis-mashroom..-xD-Lets-Do-this-
+Using KNN model and RF model to predict and analysis  
